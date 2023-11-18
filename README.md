@@ -14,13 +14,13 @@
 `The scope of the program is so vast, and the opportunities it presents are endless. I saw this at the beginning and it enticed me to join.`
 
 ## What would I say my progress in tech has been since joining the program ? 
-`I truly have progressed in tech`
+`I have progressed from beginner level to advanced level since joining this program. The projects I have built are a testament to this.`
 
 ## What are my plans for the future ?
-`Please add text here...`
+`I plan to advance further in Machine Learning and Artificial Intelligence, with an aim of becoming a fully certified world class ML/AI Engineer.`
 
 ## What is my dream company or role ?
-`Please add text here...`
+`My dream role is ML/AI Engineer for world class companies such as Google, Microsoft, Tesla, etc.`
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
