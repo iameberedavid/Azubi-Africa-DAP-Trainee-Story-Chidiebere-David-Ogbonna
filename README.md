@@ -25,6 +25,7 @@ My dream role is ML/AI Engineer for world class companies such as Google, Micros
 
 ## 1st Phase Projects' Summary Table
 During the first phase of the program, I built some interesting projects 😊😊
+
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
