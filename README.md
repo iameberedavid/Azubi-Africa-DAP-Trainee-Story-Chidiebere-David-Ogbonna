@@ -6,10 +6,10 @@
 My name is Chidiebere David Ogbonna. My quest to become a Tech Expert started in 2021. I started researching about Tech in this year, and I found the data field interesting. Since I am skilled in writing, a dedicated my Medium page to writing about Tech, especially Data Analysis. In 2022, I came across Azubi Africa's Data Analytics Program on LinkedIn, which I applied for and was accepted.
 
 ## How would I describe my experience in the data analytics program ? 
-Azubi Africa's Data Analytics Program was the game changer in my data journey. I got exposed to experienced teachers, who taught with so much passion and dedication. The program was really deep as I learnt how to work with various tools like Excel, SQL, Power BI, and Python. For me, the greatest highlight of this program is the exposure it gave me to Machine Learning, an area I have come to love.
+Azubi Africa's Data Analytics Program was for me the best online course I've taken so far in my career. This program taught me consistency, and how to persevere in the Tech space. I would describe my experience as stellar and exciting.
 
 ## What would I say the Career Accelerator phase introduced me to when it comes to data analytics ? 
-`The initiative to have a Career Accelerator Phase in the program is golden. This phase made me put in real work. For the first time, I was allowed to build projects from scratch to completion, with the guidance of our instructors. The interactions between the instructors and learners through the Team and Engineering Demo sessions were stellar. This phase of the program introduced me to practical Machine Learning, and I can't stop being excited about the knowledge I now have in this area.`
+The initiative to have a Career Accelerator Phase in the program is golden. This phase made me put in real work. For the first time, I built huge Data Analysis and Machine Learning projects from scratch to completion, with the guidance of our instructors. I would say this phase of the program introduced me to real work.
 
 ## What enticed me to join the Data Analytics Program?
 `The scope of the program is so vast, and the opportunities it presents are endless. I saw this at the beginning and it enticed me to join.`
