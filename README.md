@@ -21,10 +21,10 @@ I would say I have progressed from beginner level to advanced level since joinin
 I plan to advance further in Machine Learning and Artificial Intelligence, with an aim of becoming a fully certified world class ML/AI Engineer.
 
 ## What is my dream company or role?
-`My dream role is ML/AI Engineer for world class companies such as Google, Microsoft, Tesla, etc.`
+My dream role is ML/AI Engineer for world class companies such as Google, Microsoft, Tesla, etc.
 
 ## 1st Phase Projects' Summary Table
-`Please add text here...`
+During the first phase of the program, I built some interesting projects 😊😊
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
