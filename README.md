@@ -1,5 +1,6 @@
-# DAP-Trainee-Story
-# 📈🧪 Data Analytics Program 🧠📊 : Story of *Chidiebere David Ogbonna*
+# DAP TRAINEE STORY
+
+## Data Analytics Program: Story of *Chidiebere David Ogbonna*
 
 ## Let me introduce Myself
 `My name is Chidiebere David Ogbonna. My quest to become a Tech Expert started in 2021. I started researching about Tech in this year, and I found the data field interesting. Since I am skilled in writing, a dedicated my Medium page to writing about Tech, especially Data Analysis. By the following year, I had found online platforms like Simplilearn, Udemy, DataCamp, and Coursera where I started taking short courses in Data Science and Data Analytics. I also suscribed to Youtube channels where I started learning to use Excel and Python. By the end of 2022, I enrolled for and completed my first Data Analytics program. In this same period, I came across Azubi Africa's Data Analytics Program, which I applied for and was accepted.`
