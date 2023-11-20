@@ -37,7 +37,7 @@
 <td>1</td>
 <td>Kofi and Brothers Company Limited</td>
 <td>Kofi and Brothers Company Limited deals in the production and sale of bikes. As a data analyst, I am to help the marketing manager of the company gain insights into their data.</td>
-<td>There has been a growing concern as to how to maximize revenue while delivering on their goal to provide affordable biking solutions to everyone.</td>
+<td>This project will help the company maximize revenue while delivering on their goal to provide affordable biking solutions to everyone.</td>
 </tr>
 
 <tr>
