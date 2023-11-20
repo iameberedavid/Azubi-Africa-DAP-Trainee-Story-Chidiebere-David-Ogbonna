@@ -38,7 +38,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 <td>1</td>
 <td>Kofi and Brothers Company Limited</td>
 <td>Kofi and Brothers Company Limited deals in the production and sale of bikes. As a data analyst, I am to help the marketing manager of the company gain insights into their data.</td>
-<td>This project will help the company maximize revenue while delivering on their goal to provide affordable biking solutions to everyone.</td>
+<td>This project was built with Excel and will help the company maximize revenue while delivering on their goal to provide affordable biking solutions to everyone.</td>
 </tr>
 
 <tr>
