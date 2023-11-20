@@ -5,22 +5,22 @@
 ## Let me introduce myself
 My name is Chidiebere David Ogbonna. My quest to become a Tech Expert started in 2021. I started researching about Tech in this year, and I found the data field interesting. Since I am skilled in writing, a dedicated my Medium page to writing about Tech, especially Data Analysis. In 2022, I came across Azubi Africa's Data Analytics Program on LinkedIn, which I applied for and was accepted.
 
-## How would I describe my experience in the data analytics program ? 
+## How would I describe my experience in the data analytics program? 
 Azubi Africa's Data Analytics Program was for me the best online course I've taken so far in my career. This program taught me consistency, and how to persevere in the Tech space. I would describe my experience as stellar and exciting.
 
-## What would I say the Career Accelerator phase introduced me to when it comes to data analytics ? 
+## What would I say the Career Accelerator phase introduced me to when it comes to data analytics? 
 The initiative to have a Career Accelerator Phase in the program is golden. This phase made me put in real work. For the first time, I built huge Data Analysis and Machine Learning projects from scratch to completion, with the guidance of our instructors. I would say this phase of the program introduced me to real work.
 
 ## What enticed me to join the Data Analytics Program?
-`The scope of the program is so vast, and the opportunities it presents are endless. I saw this at the beginning and it enticed me to join.`
+Azubi Africa's Data Analytics Program has two phases, the first phase being the Bootcamp Phase and the second phase being the Career Accelerator Phase. I was enticed to join the program when I found out that the Career Accelerator Phase would give me the opportunity to practice extensively while still learning.
 
-## What would I say my progress in tech has been since joining the program ? 
-`I have progressed from beginner level to advanced level since joining this program. The projects I have built are a testament to this.`
+## What would I say my progress in tech has been since joining the program? 
+I would say I have progressed from beginner level to advanced level since joining this program. The projects I have built are a testament to this.
 
-## What are my plans for the future ?
-`I plan to advance further in Machine Learning and Artificial Intelligence, with an aim of becoming a fully certified world class ML/AI Engineer.`
+## What are my plans for the future?
+I plan to advance further in Machine Learning and Artificial Intelligence, with an aim of becoming a fully certified world class ML/AI Engineer.
 
-## What is my dream company or role ?
+## What is my dream company or role?
 `My dream role is ML/AI Engineer for world class companies such as Google, Microsoft, Tesla, etc.`
 
 ## 1st Phase Projects' Summary Table
