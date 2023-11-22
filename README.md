@@ -171,7 +171,7 @@ During the first phase of the program, I built some interesting projects ğŸ˜ŠğŸ˜
 
     `Reply here please.`
 
-1. Do the projects worked on help you test your ability / skills? 
+1. Do the projects worked on help you test your ability /skills? 
 
     `Reply here please.`
 
