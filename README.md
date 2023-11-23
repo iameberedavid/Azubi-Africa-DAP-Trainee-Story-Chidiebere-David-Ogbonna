@@ -159,8 +159,7 @@ During the first phase of the program, I built some interesting projects ğŸ˜ŠğŸ˜
 
     `Reply here please.`
 
-1. Are the lectures engaging and int
-eresting? 
+1. Are the lectures engaging and interesting? 
 
     `Reply here please.`
 
