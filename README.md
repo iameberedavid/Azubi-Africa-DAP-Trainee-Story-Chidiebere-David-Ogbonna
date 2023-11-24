@@ -187,9 +187,9 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
     Yes, absolutely.
 
-1. Do you think you have gained enough skills through our programme to land your dream job ? 
+11. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-    `Reply here please.`
+    Yes, as a matter of fact I think I have gained skills to function in multiple roles in the data space.
 
 
 ## My Contacts
