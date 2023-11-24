@@ -183,7 +183,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
     The fees structure is really commendable. In fact, I was really encouraged to apply when I saw the huge consideration that was granted through the way the fee payment was structured. I felt it was such a great opportunity.
 
-10. Would you say Azubi has changed your life ? 
+10. Would you say Azubi Africa has changed your life ? 
 
     Yes, absolutely.
 
