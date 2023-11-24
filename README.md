@@ -173,7 +173,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
 7. Did the projects worked on help you test your ability/skills? 
 
-    Yes. I really tested my skills and abilities in multiple areas through the projects. We had six projects during the Career Accelerator phase, and another project which served as our capstone project. There were many other other individual and peer projects during the Bootcamp phase. These projects touched on different areas of data analysis, including Machine Learning. So truly, I was able to test my skills and abilities in multiple areas by working on the projects.
+    Yes, I really tested my skills and abilities in multiple areas through the projects. We had six projects during the Career Accelerator phase, and another project which served as our capstone project. There were many other individual and peer projects during the Bootcamp phase. These projects touched on different areas of data analysis, including Machine Learning. So truly, I was able to test my skills and abilities in multiple areas by working on the projects.
 
 8. What will you change about the program if you had a chance? 
 
