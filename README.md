@@ -171,9 +171,9 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
     It is a unique feature of the program. Because it's so flexible, one can learn from anywhere and anytime using the provided study materials.
 
-7. Do the projects worked on help you test your ability/skills? 
+7. Did the projects worked on help you test your ability/skills? 
 
-    Yes. I really tested my abilities in multiple areas through the projects. We had six projects during the Career Accelerator phase, and another project which served as our capstone project. These projects touched on different areas of data analysis, including Machine Learning, on different areas and they gave us the real chance to learn so much.
+    Yes. I really tested my skills and abilities in multiple areas through the projects. We had six projects during the Career Accelerator phase, and another project which served as our capstone project. There were many other other individual and peer projects during the Bootcamp phase. These projects touched on different areas of data analysis, including Machine Learning. So truly, I was able to test my skills and abilities in multiple areas by working on the projects.
 
 8. What will you change about the program if you had a chance? 
 
