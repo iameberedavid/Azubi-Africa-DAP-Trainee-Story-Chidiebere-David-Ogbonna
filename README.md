@@ -149,31 +149,31 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
 
-    `Reply here please.`
+    I will advise the person to find consistency and hold onto it.
 
-1. What did you think about the quality of teaching and level of assistance? 
+2. What did you think about the quality of teaching and level of assistance? 
 
-    `Reply here please.`
+    Woww. Azubi Africa's quality of teaching is really exceptional. I love it.
 
-1. What did you like most about the program? 
+3. What did you like most about the program? 
 
-    `Reply here please.`
+    I like the demo sessions and assignments the most.
 
-1. Are the lectures engaging and interesting? 
+4. Are the lectures engaging and interesting? 
 
-    `Reply here please.`
+    Yes, they are. They are very professional too.
 
-1. What happens if you miss a lecture? 
+5. What happens if you miss a lecture? 
 
-    `Reply here please.`
+    I feel bad about it, however, I love the fact that the sessions are always recorded. I quickly rush to watch and learn from the recordings.
 
-1. What do you think of the flexibility of the program? 
+6. What do you think of the flexibility of the program? 
 
-    `Reply here please.`
+    It is a unique feature of the program. Because it's so flexible, one can learn from anywhere and anytime using the provided study materials.
 
-1. Do the projects worked on help you test your ability /skills? 
+7. Do the projects worked on help you test your ability/skills? 
 
-    `Reply here please.`
+    Yes. I really tested my abilities in multiple areas through the projects. We had six projects, and another project which served as our capstone project, on different areas and they gave us the real chance to learn so much.
 
 1. What will you change about the program if you had a chance? 
 
