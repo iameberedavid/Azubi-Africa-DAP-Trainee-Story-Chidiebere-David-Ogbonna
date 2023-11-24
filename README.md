@@ -181,7 +181,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
 9. What do you think about the fees structure? 
 
-    The fees structure is really commendable. In fact, I was really encouraged to apply when I saw the huge consideration that was granted through the way the fee payment was structured. I felt it was such a great opportunity.
+    The fees structure is really commendable. In fact, I was really encouraged to apply when I saw the huge consideration that was granted through the way the fee payment was structured. I felt it was such a great opportunity, hence I quickly took it.
 
 10. Would you say Azubi Africa has changed your life? 
 
