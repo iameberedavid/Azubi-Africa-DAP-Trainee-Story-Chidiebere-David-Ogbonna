@@ -175,7 +175,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
     Yes. I really tested my abilities in multiple areas through the projects. We had six projects, and another project which served as our capstone project, on different areas and they gave us the real chance to learn so much.
 
-1. What will you change about the program if you had a chance? 
+8. What will you change about the program if you had a chance? 
 
     `Reply here please.`
 
