@@ -177,7 +177,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
 8. What will you change about the program if you had a chance? 
 
-    I will add more projects on Excel and SQL to the career accelerator phase.
+    I will add more projects on Excel, SQL and Power BI to the Career Accelerator phase, and Tableau to the Bootcamp phase.
 
 9. What do you think about the fees structure? 
 
