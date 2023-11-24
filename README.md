@@ -196,5 +196,5 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 | ---- | ------- | --------- | -------- | ------- |
 | Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | eberedavid326@gmail.com |
 
-**NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+## Acknowledgment
+I would like to express my gratitude to Azubi Africa and her data team, for their support and for offering me the knowledge and skills I gained through this [Data Analysis Program](https://www.azubiafrica.org/data-analytics). Not forgeting my scrum masters [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/) & [Emmanuel Koupoh](https://github.com/eaedk). Thank you so much and, expect me at the top.
