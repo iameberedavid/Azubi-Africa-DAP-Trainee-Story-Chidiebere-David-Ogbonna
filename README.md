@@ -193,7 +193,9 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
 
 ## My Contacts
-`Please add your contacts here...`
+| Name | Profile | Portfolio | Articles | Email |
+| ---- | ------- | --------- | -------- | ------- |
+| Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | eberedavid326@gmail.com |
 
 **NB:**
 Feel free to add more sections if you want to share some thoughts or personal works, etc.
