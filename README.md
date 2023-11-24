@@ -183,9 +183,9 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
     The fees structure is really commendable. In fact, I was really encouraged to apply when I saw the huge consideration that was granted through the way the fee payment was structured. I felt it was such a great opportunity.
 
-1. Would you say Azubi Has Changed your life ? 
+10. Would you say Azubi has changed your life ? 
 
-    `Reply here please.`
+    Yes, absolutely.
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
