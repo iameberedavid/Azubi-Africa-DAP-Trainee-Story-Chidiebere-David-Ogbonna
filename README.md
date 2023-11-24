@@ -60,7 +60,7 @@ During the first phase of the program, I built some interesting projects 😊�
 </table>
 
 ## Career Accelerator Projects' Summary Table
-During the career accelerator phase, we had six solid projects, and an extra one that served as our capstone project
+During the second phase of the program, I built even bigger projects 😊😊. I built six solid projects, then an extra one that served as my capstone project.
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
