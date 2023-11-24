@@ -173,7 +173,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
 7. Do the projects worked on help you test your ability/skills? 
 
-    Yes. I really tested my abilities in multiple areas through the projects. We had six projects, and another project which served as our capstone project, on different areas and they gave us the real chance to learn so much.
+    Yes. I really tested my abilities in multiple areas through the projects. We had six projects during the Career Accelerator phase, and another project which served as our capstone project, on different areas and they gave us the real chance to learn so much.
 
 8. What will you change about the program if you had a chance? 
 
