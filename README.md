@@ -179,9 +179,9 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
     I will add more projects on Excel and SQL to the career accelerator phase.
 
-1. What do you think about the fees structure? 
+9. What do you think about the fees structure? 
 
-    `Reply here please.`
+    The fees structure is really commendable. In fact, I was really encouraged to apply when I saw the huge consideration that was granted through the way the fee payment was structured. I felt it was such a great opportunity.
 
 1. Would you say Azubi Has Changed your life ? 
 
