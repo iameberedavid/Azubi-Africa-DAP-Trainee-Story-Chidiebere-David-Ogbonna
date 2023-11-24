@@ -177,7 +177,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
 8. What will you change about the program if you had a chance? 
 
-    `Reply here please.`
+    I will add more projects on Excel and SQL to the career accelerator phase.
 
 1. What do you think about the fees structure? 
 
