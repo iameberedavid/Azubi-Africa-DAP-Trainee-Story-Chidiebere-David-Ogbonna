@@ -161,8 +161,8 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
 4. Are the lectures engaging and interesting? 
 
-    Yes, they are. They are very professional too.
-
+    Yes, they are. The lecturers are very professional in their delivery too.
+    
 5. What happens if you miss a lecture? 
 
     I feel bad about it, however, I love the fact that the sessions are always recorded. I quickly rush to watch and learn from the recordings.
