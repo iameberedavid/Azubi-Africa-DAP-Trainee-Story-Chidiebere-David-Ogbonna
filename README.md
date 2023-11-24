@@ -191,7 +191,6 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
     Yes, as a matter of fact I think I have gained skills to function in multiple roles in the data space.
 
-
 ## My Contacts
 | Name | Profile | Portfolio | Articles | Email |
 | ---- | ------- | --------- | -------- | ------- |
