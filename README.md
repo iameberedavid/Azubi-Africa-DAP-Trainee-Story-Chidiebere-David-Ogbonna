@@ -3,7 +3,7 @@
 ## Data Analytics Program: Story of *Chidiebere David Ogbonna*
 
 ## Let me introduce myself
-My name is Chidiebere David Ogbonna. My quest to become a Tech Expert started in 2021. I started researching about Tech in this year, and I found the data field interesting. Since I am skilled in writing, a dedicated my Medium page to writing about Tech, especially Data Analysis. In 2022, I came across Azubi Africa's Data Analytics Program on LinkedIn, which I applied for and was accepted.
+My name is Chidiebere David Ogbonna. My quest to become a Tech Expert started in 2021. I started researching about Tech in this year, and I found the data field interesting. Since I am skilled in writing, I dedicated my Medium page to writing about Tech, especially Data Analysis. In 2022, I came across Azubi Africa's Data Analytics Program on LinkedIn, which I applied for and was accepted.
 
 ## How would I describe my experience in the data analytics program?Â 
 Azubi Africa's Data Analytics Program was for me the best online course I've taken so far in my career. This program taught me consistency, and how to persevere in the Tech space. I would describe my experience as stellar and exciting.
@@ -60,7 +60,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 </table>
 
 ## Career Accelerator Projects' Summary Table
-`Please add text here...`
+During the career accelerator phase, we had six solid projects, and an extra one that served as our capstone project
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -162,7 +162,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 4. Are the lectures engaging and interesting? 
 
     Yes, they are. The lecturers are very professional in their delivery too.
-    
+
 5. What happens if you miss a lecture? 
 
     I feel bad about it, however, I love the fact that the sessions are always recorded. I quickly rush to watch and learn from the recordings.
