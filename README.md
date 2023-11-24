@@ -12,7 +12,7 @@ Azubi Africa's Data Analytics Program was for me the best online course I've tak
 The initiative to have a Career Accelerator Phase in the program is golden. This phase made me put in real work. For the first time, I built huge Data Analysis and Machine Learning projects from scratch to completion, with the guidance of our instructors. I would say this phase of the program introduced me to real work.
 
 ## What enticed me to join the Data Analytics Program?
-Azubi Africa's Data Analytics Program has two phases, the first phase being the Bootcamp Phase and the second phase being the Career Accelerator Phase. I was enticed to join the program when I found out that the Career Accelerator Phase would give me the opportunity to practice extensively while still learning.
+Azubi Africa's Data Analytics Program has two phases, the first phase being the Bootcamp Phase and the second phase being the Career Accelerator Phase. I was enticed to join the program when I found out that the Career Accelerator Phase would give me the opportunity to practice extensively while still learning. I also loved the fees structure of the program, and it encouraged me to take advantage of the opportunity.
 
 ## What would I say my progress in tech has been since joining the program? 
 I would say I have progressed from beginner level to advanced level since joining this program. The projects I have built are a testament to this.
