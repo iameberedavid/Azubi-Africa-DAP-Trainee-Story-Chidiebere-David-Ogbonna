@@ -21,7 +21,7 @@ I would say I have progressed from beginner level to advanced level since joinin
 I plan to advance further in Machine Learning and Artificial Intelligence, with an aim of becoming a fully certified world class ML/AI Engineer.
 
 ## What is my dream company or role?
-My dream role is ML/AI Engineer for world class companies such as Google, Microsoft, Tesla, etc.
+My dream role is ML/AI Engineer for world class companies such as Google, Microsoft, Tesla, etc. I will start as a Data Analyst for a top firm and build from there.
 
 ## 1st Phase Projects' Summary Table
 During the first phase of the program, I built many interesting projects. Here are a few of them:
@@ -60,7 +60,7 @@ During the first phase of the program, I built many interesting projects. Here a
 </table>
 
 ## Career Accelerator Projects' Summary Table
-During the second phase of the program, I built even bigger projects. A total of seven projects were built, the last one being my Capstone Project.
+During the second phase of the program, I built even bigger projects. I built a total of seven projects, the last one being my Capstone Project.
 
 | # | Project's Name | Article | Github Repository | HuggingFace Deployment |
 | - | -------------- | ------- | ----------------- | ---------------------- |
@@ -79,11 +79,11 @@ During the second phase of the program, I built even bigger projects. A total of
 
 2. What did you think about the quality of teaching and level of assistance? 
 
-    Woww. Azubi Africa's quality of teaching is really exceptional. I love it.
+    Azubi Africa's quality of teaching is really exceptional. I love it.
 
 3. What did you like most about the program? 
 
-    I like the demo sessions and assignments the most.
+    I like the Team Demo sessions and Individual Programming Projects the most.
 
 4. Are the lectures engaging and interesting? 
 
@@ -91,7 +91,7 @@ During the second phase of the program, I built even bigger projects. A total of
 
 5. What happens if you miss a lecture? 
 
-    I feel bad about it, however, I love the fact that the sessions are always recorded. I quickly rush to watch and learn from the recordings.
+    I feel bad about it. However, I love the fact that the sessions are always recorded. I quickly rush to watch and learn from the recordings.
 
 6. What do you think of the flexibility of the program? 
 
@@ -99,11 +99,11 @@ During the second phase of the program, I built even bigger projects. A total of
 
 7. Did the projects worked on help you test your ability/skills? 
 
-    Yes, I really tested my skills and abilities in multiple areas through the projects. We had six projects during the Career Accelerator phase, and another project which served as our capstone project. There were many other individual and peer projects during the Bootcamp phase. These projects touched on different areas of data analysis, including Machine Learning. So truly, I was able to test my skills and abilities in multiple areas by working on the projects.
+    Yes, I really tested my skills and abilities in multiple areas through the projects. We had seven projects during the Career Accelerator phase, and numerous others during the Bootcamp phase. These projects touched on different areas of Data Analysis and Machine Learning, and required the use of all the tools needed in the field. So truly, I was able to test my skills and abilities in multiple areas by working on the projects.
 
 8. What will you change about the program if you had a chance? 
 
-    I will add more projects on Excel, SQL and Power BI to the Career Accelerator phase, and add Tableau to the Bootcamp phase.
+    I will add more projects on Excel, SQL and Power BI to the Career Accelerator phase, and add Tableau to the entire program to further promote versatility.
 
 9. What do you think about the fees structure? 
 
@@ -118,9 +118,15 @@ During the second phase of the program, I built even bigger projects. A total of
     Yes, as a matter of fact I think I have gained skills to function in multiple roles in the data space.
 
 ## My Contacts
+
+You can contact me through my email below. I also attached links to my social accounts.
+
 | Name | Profile | Portfolio | Articles | Tweets | Email |
 | ---- | ------- | --------- | -------- | ------ | ----- |
 | Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | [Twitter](https://twitter.com/iameberedavid) | eberedavid326@gmail.com |
 
 ## Acknowledgment
-I would like to express my gratitude to Azubi Africa and her data team, for their support and for offering me the knowledge and skills I gained through this [Data Analysis Program](https://www.azubiafrica.org/data-analytics). Not forgeting my scrum masters [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/) & [Emmanuel Koupoh](https://github.com/eaedk). Thank you so much and, expect me at the top.
+I would like to express my gratitude to Azubi Africa and her data team, for their support and for offering me the knowledge and skills I gained through this [Data Analysis Program](https://www.azubiafrica.org/data-analytics). Not forgeting my scrum master [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/), and my project manager [Emmanuel Koupoh](https://github.com/eaedk).
+
+## Final Words
+One has to choose between being a talker and being a doer. I choose to be a doer, and I'll do so much. Expect me at the top.
