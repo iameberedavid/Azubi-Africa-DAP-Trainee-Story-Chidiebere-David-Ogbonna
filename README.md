@@ -38,7 +38,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 <tr>
 <td>1</td>
 <td>Kofi and Brothers Company Limited</td>
-<td>Kofi and Brothers Company Limited deals in the production and sale of bikes. As a data analyst, I will help the marketing manager of the company gain insights into their data. This project was built with Excel and will help the company maximize revenue while delivering on their goal to provide affordable biking solutions to everyone.</td>
+<td>This project was built with Excel and will help the company maximize revenue while delivering on their goal to provide affordable biking solutions to everyone.</td>
 <td>https://github.com/iameberedavid/Kofi-and-Brothers-Company-Limited</td>
 </tr>
 
@@ -52,7 +52,7 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 <tr>
 <td>3</td>
 <td>Local Government Taxation</td>
-<td>The aim of this project is to calculate the proposed taxations to be imposed by the Local Government on product sales in retail stores and analyse the net revenue after taxation.</td>
+<td>In this project, Python was used to calculate the proposed taxations to be imposed by the Local Government on product sales in retail stores and analyse the net revenue after taxation.</td>
 <td>https://github.com/iameberedavid/Local-Government-Taxation</td>
 </tr>
 
