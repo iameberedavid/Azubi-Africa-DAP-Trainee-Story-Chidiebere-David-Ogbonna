@@ -46,7 +46,7 @@ During the first phase of the program, I built some interesting projects 😊�
 <td>2</td>
 <td> </td>
 <td> </td>
-<td> </td>
+<td>(Repository)[https://github.com/iameberedavid/Shipment-Analysis-Using-SQL]</td>
 </tr>
 
 <tr>
@@ -62,8 +62,8 @@ During the first phase of the program, I built some interesting projects 😊�
 ## Career Accelerator Projects' Summary Table
 During the second phase of the program, I built even bigger projects 😊😊. I built six solid projects, then an extra one that served as my capstone project.
 
-|# | Project's Name | Article | Github Repository | HuggingFace Deployment |
-|- | -------------- | ------- | ----------------- | ---------------------- |
+| # | Project's Name | Article | Github Repository | HuggingFace Deployment |
+| - | -------------- | ------- | ----------------- | ---------------------- |
 | 1 | Indian Startup Funding Analysis | [INDIAN START-UP FUNDING ANALYSIS (2018–2021)](https://eberedavid.medium.com/indian-start-up-funding-analysis-2018-2021-c33583474eb7) | [Indian-Start-Up-Funding-Analysis](https://github.com/iameberedavid/Indian-Start-Up-Funding-Analysis/blob/main/Jupyter%20Notebook.ipynb) |  |
 | 2 | Telco Churn Analysis | [TELCO CHURN ANALYSIS](https://eberedavid.medium.com/telco-churn-analysis-d463035fcbb5) | [Telco-Churn-Analysis](https://github.com/iameberedavid/Telco-Churn-Analysis) | [App](https://huggingface.co/spaces/iameberedavid/Embed_Telco_Churn_ML_Model_To_HuggingFace) |
 | 3 | Time Series Forecasting Analysis For Corporation Favorita| [TIME SERIES FORECASTING ANALYSIS FOR CORPORATION FAVORITA](https://eberedavid.medium.com/time-series-forecasting-analysis-for-corporation-favorita-4e43df145e50) | [Time-Series-Forecasting-Analysis-For-Corporation-Favorita](https://github.com/iameberedavid/Time-Series-Forecasting-Analysis-For-Corporation-Favorita) | [App](https://huggingface.co/spaces/iameberedavid/Embed-Corporation-Favorita-Timeseries-Model-To-HuggingFace) |
