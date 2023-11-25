@@ -62,15 +62,14 @@ During the first phase of the program, I built some interesting projects 😊�
 ## Career Accelerator Projects' Summary Table
 During the second phase of the program, I built even bigger projects 😊😊. I built six solid projects, then an extra one that served as my capstone project.
 
-| # | Project's Name | Article | HuggingFace Deployment | Github Repository |
+| # | Project's Name | Article | Github Repository | HuggingFace Deployment |
 | - | -------------- | ------- | ---------------------- | ----------------- |
-| 1 | Indian Startup Funding Analysis | [INDIAN START-UP FUNDING ANALYSIS (2018–2021)](https://eberedavid.medium.com/indian-start-up-funding-analysis-2018-2021-c33583474eb7) | [Indian-Start-Up-Funding-Analysis](https://github.com/iameberedavid/Indian-Start-Up-Funding-Analysis/blob/main/Jupyter%20Notebook.ipynb) |
+| 1 | Indian Startup Funding Analysis | [INDIAN START-UP FUNDING ANALYSIS (2018–2021)](https://eberedavid.medium.com/indian-start-up-funding-analysis-2018-2021-c33583474eb7) | [Indian-Start-Up-Funding-Analysis](https://github.com/iameberedavid/Indian-Start-Up-Funding-Analysis/blob/main/Jupyter%20Notebook.ipynb) | ------ |
 | 2 | Project's Name | Article | HuggingFace Deployment | Github Repository |
 | 3 | Project's Name | Article | HuggingFace Deployment | Github Repository |
 | 4 | Project's Name | Article | HuggingFace Deployment | Github Repository |
 | 5 | Project's Name | Article | HuggingFace Deployment | Github Repository |
 | 6 | Project's Name | Article | HuggingFace Deployment | Github Repository |
-
 | Capstone | Project's Name | Article | HuggingFace Deployment | Github Repository |
 
 ## AZUBI Interview 
