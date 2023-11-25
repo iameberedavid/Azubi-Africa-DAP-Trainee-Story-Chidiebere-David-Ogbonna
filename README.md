@@ -69,8 +69,7 @@ During the second phase of the program, I built even bigger projects 😊😊. I
 <td>Description</td>
 <td>Article</td>
 <td>Deployed App</td>
-<td>App Repository</td>
-<td>Dev Repository</td>
+<td>Repository</td>
 </tr>
 
 <tr>
@@ -78,14 +77,12 @@ During the second phase of the program, I built even bigger projects 😊😊. I
 <td>Indian Startup Funding Analysis</td>
 <td>This project is aimed at finding business insights using datasets of start-up funding in India from 2018 to 2021. These insights should guide the business decisions of my team, ultimately enabling us to have better chances of securing funding for our start-up business.</td>
 <td>[INDIAN START-UP FUNDING ANALYSIS (2018–2021)](https://eberedavid.medium.com/indian-start-up-funding-analysis-2018-2021-c33583474eb7)</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
+<td></td>
 <td>[Indian-Start-Up-Funding-Analysis](https://github.com/iameberedavid/Indian-Start-Up-Funding-Analysis/blob/main/Jupyter%20Notebook.ipynb)</td>
 </tr>
 
 <tr>
 <td>2</td>
-<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
