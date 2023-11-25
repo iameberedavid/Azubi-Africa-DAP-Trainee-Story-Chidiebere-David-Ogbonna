@@ -61,85 +61,22 @@ During the first phase of the program, I built some interesting projects 😊�
 
 ## Career Accelerator Projects' Summary Table
 During the second phase of the program, I built even bigger projects 😊😊. I built six solid projects, then an extra one that served as my capstone project.
-<table style="width: 1%;" border="1" cellpadding="1">
-<tbody>
-<tr>
-<td>#</td>
-<td>Project's Name</td>
-<td>Article</td>
-<td>Deployed App</td>
-<td>Repository</td>
-</tr>
 
-<tr>
-<td>1</td>
-<td>Indian Startup Funding Analysis</td>
-<td>[INDIAN START-UP FUNDING ANALYSIS (2018–2021)](https://eberedavid.medium.com/indian-start-up-funding-analysis-2018-2021-c33583474eb7)</td>
-<td></td>
-<td>[Indian-Start-Up-Funding-Analysis](https://github.com/iameberedavid/Indian-Start-Up-Funding-Analysis/blob/main/Jupyter%20Notebook.ipynb)</td>
-</tr>
+| # | Project's Name | Article | HuggingFace Deployment | Github Repository |
 
-<tr>
-<td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
+| 1 | Indian Startup Funding Analysis | [INDIAN START-UP FUNDING ANALYSIS (2018–2021)](https://eberedavid.medium.com/indian-start-up-funding-analysis-2018-2021-c33583474eb7) | [Indian-Start-Up-Funding-Analysis](https://github.com/iameberedavid/Indian-Start-Up-Funding-Analysis/blob/main/Jupyter%20Notebook.ipynb) |
 
-<tr>
-<td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
+| 2 | Project's Name | Article | HuggingFace Deployment | Github Repository |
 
-<tr>
-<td>4</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
+| 3 | Project's Name | Article | HuggingFace Deployment | Github Repository |
 
-<tr>
-<td>5</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
+| 4 | Project's Name | Article | HuggingFace Deployment | Github Repository |
 
-<tr>
-<td>6</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
+| 5| Project's Name | Article | HuggingFace Deployment | Github Repository |
 
-<tr>
-<td>Capstsone</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
+| 6 | Project's Name | Article | HuggingFace Deployment | Github Repository |
 
-</tbody>
-</table>
+| Capstone | Project's Name | Article | HuggingFace Deployment | Github Repository |
 
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
