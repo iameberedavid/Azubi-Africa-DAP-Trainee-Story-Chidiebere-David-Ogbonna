@@ -51,9 +51,9 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Local Government Taxation</td>
+<td>The aim of this project is to calculate the proposed taxations to be imposed by the Local Government on product sales in retail stores and analyse the net revenue after taxation.</td>
+<td>https://github.com/iameberedavid/Local-Government-Taxation</td>
 </tr>
 
 </tbody>
