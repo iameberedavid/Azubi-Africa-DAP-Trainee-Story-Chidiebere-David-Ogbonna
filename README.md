@@ -126,7 +126,7 @@ You can contact me through my email below. I also attached links to my social ac
 | Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | [Twitter](https://twitter.com/iameberedavid) | eberedavid326@gmail.com |
 
 ## Acknowledgment
-I would like to express my gratitude to Azubi Africa and her data team, for their support and for offering me the knowledge and skills I gained through this [Data Analysis Program](https://www.azubiafrica.org/data-analytics). Not forgeting my scrum master [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/), and my project manager [Emmanuel Koupoh](https://github.com/eaedk).
+I would like to express my gratitude to Azubi Africa and her data team, for their support and for offering me the knowledge and skills I gained through this [Data Analysis Program](https://www.azubiafrica.org/data-analytics). Not forgeting my scrum master [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/), and my project manager [Emmanuel Koupoh](https://github.com/eaedk). Thank you so much.
 
 ## Final Words
-One has to choose between being a talker and being a doer. I choose to be a doer, and I'll do so much. Expect me at the top.
+One has to choose between being a talker and being a doer. I choose to be a doer, and I'll do so much.
