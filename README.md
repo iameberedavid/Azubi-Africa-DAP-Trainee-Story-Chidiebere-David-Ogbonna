@@ -45,14 +45,14 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 <tr>
 <td>2</td>
 <td>Shipment Analysis Using SQL</td>
-<td>The aim of this project is to genetate insights from tables on SQL Database bearing company shipment details.</td>
+<td>The aim of this project is to genetate insights from datasets on SQL Database bearing company shipment details.</td>
 <td>https://github.com/iameberedavid/Shipment-Analysis-Using-SQL</td>
 </tr>
 
 <tr>
 <td>3</td>
 <td>Local Government Taxation</td>
-<td>In this project, Python was used to calculate the proposed taxations to be imposed by the Local Government on product sales in retail stores and analyse the net revenue after taxation.</td>
+<td>In this project, Python was used to calculate the proposed taxations to be imposed by the Local Government on individual product sales in retail stores and analyse the net revenue after taxation.</td>
 <td>https://github.com/iameberedavid/Local-Government-Taxation</td>
 </tr>
 
