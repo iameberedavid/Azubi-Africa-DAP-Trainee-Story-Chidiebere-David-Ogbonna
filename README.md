@@ -32,21 +32,21 @@ During the first phase of the program, I built some interesting projects ðŸ˜ŠðŸ˜
 <td>#</td>
 <td>Project's Name</td>
 <td>Description</td>
-<td>Additional</td>
+<td>GitHub Repository</td>
 </tr>
 
 <tr>
 <td>1</td>
 <td>Kofi and Brothers Company Limited</td>
-<td>Kofi and Brothers Company Limited deals in the production and sale of bikes. As a data analyst, I will help the marketing manager of the company gain insights into their data.</td>
-<td>This project was built with Excel and will help the company maximize revenue while delivering on their goal to provide affordable biking solutions to everyone.</td>
+<td>Kofi and Brothers Company Limited deals in the production and sale of bikes. As a data analyst, I will help the marketing manager of the company gain insights into their data. This project was built with Excel and will help the company maximize revenue while delivering on their goal to provide affordable biking solutions to everyone.</td>
+<td>https://github.com/iameberedavid/Kofi-and-Brothers-Company-Limited</td>
 </tr>
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td>(Repository)[https://github.com/iameberedavid/Shipment-Analysis-Using-SQL]</td>
+<td>Shipment Analysis Using SQL</td>
+<td>The aim of this project is to genetate insights from tables on SQL Database bearing company shipment details.</td>
+<td>https://github.com/iameberedavid/Shipment-Analysis-Using-SQL</td>
 </tr>
 
 <tr>
