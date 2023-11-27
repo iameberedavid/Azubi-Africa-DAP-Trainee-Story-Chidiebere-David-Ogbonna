@@ -129,4 +129,4 @@ You can contact me through my email below. I also attached links to my social ac
 I would like to express my gratitude to Azubi Africa and her data team, for their support and for offering me the knowledge and skills I gained through this [Data Analysis Program](https://www.azubiafrica.org/data-analytics). Not forgeting my scrum master [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/), and my project manager [Emmanuel Koupoh](https://github.com/eaedk). Thank you so much.
 
 ## Final Words
-One has to choose between being a talker and being a doer. I choose to be a doer, and I'll do so much.
+One has to choose between being a talker and being a doer. I choose to be a doer.
